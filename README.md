@@ -34,8 +34,11 @@ Un mensaje indicando la categoría correspondiente
 
 # Capturas
 
-![Pantalla Principal](assets/home.png)
-![Pantalla de Detalles](assets/resultado.png.png)
+# Pantalla Principal
+<img src="assets/home.png" width="300" height = "600">
+
+# Pantalla de Detalles
+<img src="assets/resultado.png" width="300" height = "600">
 
 # Tecnologías usadas
 
@@ -47,12 +50,8 @@ Un mensaje indicando la categoría correspondiente
 # Objetivo del proyecto
 Permite practicar:
 
-Manejo de TextField
-
-Validaciones
-
-Uso de setState
-
-Separación básica de widgets
-
-Construcción de interfaces simples
+- Manejo de TextField
+- Validaciones
+- Uso de setState
+- Separación básica de widgets
+- Construcción de interfaces simples
